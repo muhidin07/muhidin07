@@ -61,6 +61,6 @@ I'm also open to **remote freelance opportunities, small development tasks, bug 
 ### Let's Connect
 
 - 💼 LinkedIn: [Muhidin](https://www.linkedin.com/in/muhidin-259085222/)
-- 💻 GitHub: [@your-username](https://github.com/muhidin07)
+- 💻 GitHub: [@muhidin07](https://github.com/muhidin07)
 
 > **Build. Debug. Improve. Repeat.**
